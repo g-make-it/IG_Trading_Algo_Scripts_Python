@@ -22,7 +22,7 @@ Check the video for more details:
 
 ------------------------
 
-Some Algorithms had interesting results and others not so - the interesting one are stated below:
+**Some Algorithms had interesting results and others not so** - the interesting ones are stated below:
 
 https://www.youtube.com/watch?v=9i5Rvi8XLwE - Positions on opposite sides of a single instrument
 
