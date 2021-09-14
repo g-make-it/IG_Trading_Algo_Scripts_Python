@@ -1,26 +1,11 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
-"""
-IG Markets REST API sample with Python
-2015 FemtoTrader
-"""
-
 from trading_ig import IGService
 from trading_ig.config import config
-import logging
-# format to
-# # from folder.file import class
-# from getting_instrument_based_data.navigate_tree import NavigateTree
 
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.DEBUG)
-
-# if you need to cache to DB your requests
 from datetime import timedelta
 import requests_cache
-import time
-import os
 import json
 import pandas as pd
 pd.options.mode.chained_assignment = None  # default='warn'
