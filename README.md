@@ -22,11 +22,12 @@ Check the video for more details:
 
 ------------------------
 
-###Just a few more notes:
+### Just a few more notes:
+
 The core scripts used in trading_IG (license in root folder) and some of the scripts in test and
 the config are from: https://github.com/ig-python/ig-markets-api-python-library
 
-### All the other scripts + algos have been developed by me.
+**All the other scripts + algos have been developed by me.**
 
 This project has a number of different algorithms, some had interesting results and others not so: The most interesting of those, I’ve documented in my videos:
 
